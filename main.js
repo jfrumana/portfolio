@@ -1,5 +1,5 @@
 // ------- Osmo [https://osmo.supply/] ------- //
-
+    import gsap from 'gsap';
 gsap.registerPlugin(InertiaPlugin);
 
 function initGlowingInteractiveDotsGrid() {
